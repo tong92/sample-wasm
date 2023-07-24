@@ -1,0 +1,6 @@
+[submodule "create-wasm-app"]
+	path = create-wasm-app
+	url = https://github.com/tong92/create-wasm-app.git
+[submodule "www"]
+	path = www
+	url = https://github.com/tong92/create-wasm-app.git
